@@ -19,12 +19,6 @@ Our Phone Book with Call Log System provides a comprehensive solution to these i
 - **Detailed Call Logging:** Automatically log call details such as date, time, duration, and contact information.
 - **Organized Call History:** Access and analyze call history in a chronological format.
 
-## Target Audience
-
-This system is ideal for:
-- **Individual Users:** Looking for an organized way to manage personal contacts and call logs.
-- **Businesses:** Needing a reliable system for maintaining and tracking communication records.
-
 ## Data Structures and Algorithms
 
 ### Data Structures Used
